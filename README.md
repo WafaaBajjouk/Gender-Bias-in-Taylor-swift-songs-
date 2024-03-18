@@ -19,7 +19,8 @@ This project involves merging multiple CSV files containing song lyrics, cleanin
 3. Calculate the percentage of each pronoun type out of the total terms.
 4. Save the statistics to a CSV file named `album_gender_bias_stats.csv`.
 
-<img width="1301" alt="Graph" src="https://github.com/WaffIee/Gender-Bias-in-Taylor-swift-songs-/assets/76793719/9943ac4d-e3f9-46af-a50a-2bf0d3d2ba92">
+<img width="1508" alt="Screenshot 2024-03-19 at 00 14 36" src="https://github.com/WafaaBajjouk/Gender-Bias-in-Taylor-swift-songs-/assets/76793719/773fcf71-575d-4dc0-a2cd-ffaf4367ff1a">
+
 
 ## Usage
 
